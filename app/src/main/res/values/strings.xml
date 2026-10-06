@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UI Testing Example</string>
+    <string name="login_title">Вход</string>
+    <string name="login_subtitle">Два экрана для практики UI-тестов</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Пароль</string>
+    <string name="show_password">Показать пароль</string>
+    <string name="hide_password">Скрыть пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="demo_hint">Демо-доступ: %1$s / %2$s</string>
+    <string name="error_empty_email">Введите email</string>
+    <string name="error_invalid_email">Некорректный email</string>
+    <string name="error_empty_password">Введите пароль</string>
+    <string name="error_short_password">Пароль должен быть не короче 6 символов</string>
+    <string name="error_credentials">Неверный email или пароль</string>
+    <string name="tasks_title">Задачи</string>
+    <string name="logout">Выйти</string>
+    <string name="signed_in_as">Вы вошли как %1$s</string>
+    <string name="new_task_label">Новая задача</string>
+    <string name="add_task">Добавить</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_active">Активные</string>
+    <string name="filter_done">Готовые</string>
+    <string name="active_count">Активных: %1$d</string>
+    <string name="tasks_empty">Нет задач</string>
+    <string name="delete_task">Удалить</string>
+    <string name="delete_title">Удалить задачу?</string>
+    <string name="delete_message">«%1$s» будет удалена из списка.</string>
+    <string name="delete_confirm">Удалить</string>
+    <string name="delete_dismiss">Отмена</string>
+</resources>
