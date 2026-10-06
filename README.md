@@ -2,6 +2,10 @@
 
 Небольшое Android-приложение на Jetpack Compose: два экрана, на которых удобно показывать UI-тесты. Элементы размечены стабильными `testTag`. На корне включён `testTagsAsResourceId`, поэтому те же идентификаторы видны Compose-тестам и UiAutomator.
 
+## Демонстрация
+
+<video src="https://raw.githubusercontent.com/Stereodit/UITestingExample/main/docs/ui-testing-demo.mp4" width="720" controls></video>
+
 ## Экраны
 
 **Вход.** Email, пароль, показ пароля и кнопка «Войти». Пустые поля, некорректный email, короткий пароль и неверная пара дают отдельные ошибки. Ошибки объявляются как live region, заголовок экрана — как heading.
