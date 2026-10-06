@@ -4,7 +4,7 @@
 
 ## Демонстрация
 
-<video src="https://github.com/Stereodit/UITestingExample/releases/download/demo/ui-testing-demo.mp4" width="720" controls></video>
+[Смотреть демонстрацию](docs/ui-testing-demo.mp4)
 
 ## Экраны
 
